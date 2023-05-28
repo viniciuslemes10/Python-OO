@@ -130,3 +130,6 @@ EX: cliente.nome = "Fulano".
         @nome.setter
         def nome(self, nome):
             self.__nome = nome
+            
+            
+Projeto Python.
